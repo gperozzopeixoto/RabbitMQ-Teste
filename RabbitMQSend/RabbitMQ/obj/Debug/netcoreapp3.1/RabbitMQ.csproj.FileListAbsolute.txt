@@ -1,0 +1,13 @@
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.exe
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csprojAssemblyReference.cache
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfo.cs
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.deps.json
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.runtimeconfig.json
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.runtimeconfig.dev.json
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.pdb
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csproj.CopyComplete
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Users\gabriel.peixoto\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.pdb
